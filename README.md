@@ -14,7 +14,7 @@ To Run:
 ==========
 ```
 export MAVEN_OTS="-agentlib:TakipiAgent"
-mvn complie package 
+mvn compile package 
 mvn tomcat7:run
 ```
 
